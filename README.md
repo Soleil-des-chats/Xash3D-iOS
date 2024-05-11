@@ -1,9 +1,6 @@
-# Xash3D FWGS Engine [![Build Status](https://travis-ci.org/FWGS/xash3d.svg)](https://travis-ci.org/FWGS/xash3d) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/FWGS/xash3d?svg=true)](https://ci.appveyor.com/project/a1batross/xash3d)
+# Xash iOS
 
-Latest version of the engine is available at:
-https://github.com/FWGS/xash3d
-
-Orignal project: [Xash3D on ModDB](http://www.moddb.com/engines/xash3d-engine)
+Orignal project: [Xash3D](https://github.com/FWGS/xash3d-fwgs)
 
 Xash3D Engine is a custom Gold Source engine rewritten from scratch. Xash3D
 is compatible with many of the Gold Source games and mods and should be
@@ -14,9 +11,6 @@ exactly the way they do in Gold Source Engine.
 
 Xash3D FWGS is a fork of Xash3D Engine, which aims on crossplatform and compatibility
 with original Xash3D and Gold Source.
-
-- [Building and running Xash3D FWGS](https://github.com/FWGS/xash3d/wiki/Building-and-running)
-- [Installing and setting up the server on Debian/Ubuntu Linux](https://github.com/FWGS/xash3d/wiki/How-to-set-up-a-Xash3D-Dedicated-Server-on-Debian-Ubuntu-Linux)
 
 # License
 
